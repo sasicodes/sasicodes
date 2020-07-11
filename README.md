@@ -1,1 +1,1 @@
-![Sasi](https://github.com/sasidharank/sasidharank/edit/master/sasi.png)
+![Sasi](https://github.com/sasidharank/sasidharank/blob/master/sasi.png?raw=true)
