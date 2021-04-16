@@ -14,7 +14,7 @@ src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="50"
 
 📘 Blog Articles
 
-▶ [sudo.lglg.me](https://sudo.lglg.me/logs)
+▶ [sudo.lglg.me](https://sudo.lglg.me/logs){:target="_blank"}
 
 ---
 
