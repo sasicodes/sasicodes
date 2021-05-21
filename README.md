@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Sasi.
+### Howdy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Sasi.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/sasiKdharan?style=social)
 
