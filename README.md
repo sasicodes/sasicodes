@@ -20,7 +20,7 @@ I am a fullstack software engineer from India
 
 <br>
 
-## Recent Logs
+## Recent logs from [Lag and Log](https://lagandlog.com)
 
 <!-- BLOG-POST-LIST:START -->
 - [Top features in Javascript ECMA 2021 (ES21) with examples](https://lagandlog.com/logs/top-features-in-javascript-ecma-2021-es21-with-examples)
