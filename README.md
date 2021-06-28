@@ -19,7 +19,9 @@ I am a fullstack software engineer from India
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 
 <br>
+
 ## Recent Logs
+
 <!-- BLOG-POST-LIST:START -->
 - [Top features in Javascript ECMA 2021 (ES21) with examples](https://lagandlog.com/logs/top-features-in-javascript-ecma-2021-es21-with-examples)
 - [3 steps to create react application](https://lagandlog.com/logs/3-steps-to-create-react-application)
