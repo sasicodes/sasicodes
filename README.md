@@ -21,5 +21,9 @@ I am a fullstack software engineer from India
 <br>
 ## Recent Logs
 <!-- BLOG-POST-LIST:START -->
- 
+- [Top features in Javascript ECMA 2021 (ES21) with examples](https://lagandlog.com/logs/top-features-in-javascript-ecma-2021-es21-with-examples)
+- [3 steps to create react application](https://lagandlog.com/logs/3-steps-to-create-react-application)
+- [How we learn...](https://lagandlog.com/logs/how-we-learn)
+- [How I Learn...](https://lagandlog.com/logs/how-i-learn)
+- [Edge serving using S3 and Cloudfront](https://lagandlog.com/logs/edge-serving-using-s3-and-cloudfront)
 <!-- BLOG-POST-LIST:END -->
