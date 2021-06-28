@@ -1,23 +1,24 @@
-# Howdy!
+### Hello World 👋
+I am a fullstack software engineer from India
+- 🔭 Working on multiple frontend and backend projects using ReactJs and NodeJs
+- 🌱 Learning to write quality code.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/sasiKdharan?style=social)
 
+## Connect with me
 
----
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/sasiKdharan)
+<br>
+<br>
+## Expertise
 
-🧰 Toolbox
+<img align="left" alt="medium" src="https://img.shields.io/badge/html-%23316192.svg?&style=for-the-badge&logo=html&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/css-%23316192.svg?&style=for-the-badge&logo=css&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/javascript-%23316192.svg?&style=for-the-badge&logo=javascript&logoColor=yellow" />
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 
-<img
-src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="40" height="40"/> 
+<br>
+<br>
 
----
-
-📘 Blog Articles
-
-▶ [sudo.lglg.me](https://sudo.lglg.me/logs)
-
----
-
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasidharank&hide=java&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Recent Logs
