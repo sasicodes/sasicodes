@@ -24,9 +24,9 @@ I am a fullstack software engineer from India
 ## Recent logs from [Lag and Log](https://lagandlog.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Login Screen using React Native - Design 2](https://lagandlog.com/logs/login-screen-using-react-native-design-2)
 - [Creating a Custom Widget in Flutter](https://lagandlog.com/logs/creating-a-custom-widget-in-flutter)
-- [Login Screen using React Native](https://lagandlog.com/logs/login-screen-using-react-native)
+- [Login Screen using React Native - Design 1](https://lagandlog.com/logs/login-screen-using-react-native-design-1)
 - [Free icons for your next project](https://lagandlog.com/logs/free-icons-for-your-next-project)
-- [Splash Screen in React Native Snippet](https://lagandlog.com/logs/splash-screen-in-react-native-snippet)
-- [Top features in Javascript ECMA 2021 (ES21) with examples](https://lagandlog.com/logs/top-features-in-javascript-ecma-2021-es21-with-examples)
+- [Splash Screen using React Native](https://lagandlog.com/logs/splash-screen-using-react-native)
 <!-- BLOG-POST-LIST:END -->
