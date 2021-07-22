@@ -24,9 +24,9 @@ I am a fullstack software engineer from India
 ## Recent logs from [Lag and Log](https://lagandlog.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Rebuild Android 11 with TailwindCSS](https://lagandlog.com/logs/rebuild-android-11-with-tailwindcss)
+- [How to use Tailwind CSS in React Native](https://lagandlog.com/logs/how-to-use-tailwind-css-in-react-native)
 - [How to generate Simulator build](https://lagandlog.com/logs/how-to-generate-simulator-build)
 - [Login Screen using React Native - Design 3](https://lagandlog.com/logs/login-screen-using-react-native-design-3)
 - [Login Screen using React Native - Design 2](https://lagandlog.com/logs/login-screen-using-react-native-design-2)
-- [Creating a Custom Widget in Flutter](https://lagandlog.com/logs/creating-a-custom-widget-in-flutter)
-- [Login Screen using React Native - Design 1](https://lagandlog.com/logs/login-screen-using-react-native-design-1)
 <!-- BLOG-POST-LIST:END -->
