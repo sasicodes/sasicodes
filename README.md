@@ -21,7 +21,7 @@ I am a fullstack software engineer from India
 <br>
 <br>
 
-## Recent logs from [Lag and Log](https://lagandlog.com)
+## Recent logs from [Lag and Log](https://lagandlog.com/?ref=github.com/sasidharank)
 
 <!-- BLOG-POST-LIST:START -->
 - [Rebuild Android 11 with TailwindCSS](https://lagandlog.com/logs/rebuild-android-11-with-tailwindcss)
