@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a fullstack software engineer from India
-- 🔭 Working on multiple frontend and backend projects using ReactJs and NodeJs
+- 🔭 Working on multiple frontend and backend projects using Javascript.
 - 🌱 Learning to write quality code.
 
 
