@@ -24,9 +24,9 @@ I am a fullstack software engineer from India
 ## Recent logs from [Lag and Log](https://lagandlog.com/?ref=github.com/sasidharank)
 
 <!-- BLOG-POST-LIST:START -->
+- [Let users know about releases | Takepull](https://lagandlog.com/logs/let-users-know-about-releases-takepull)
 - [Rebuild Android 11 with TailwindCSS](https://lagandlog.com/logs/rebuild-android-11-with-tailwindcss)
 - [How to use Tailwind CSS in React Native](https://lagandlog.com/logs/how-to-use-tailwind-css-in-react-native)
 - [How to generate Simulator build](https://lagandlog.com/logs/how-to-generate-simulator-build)
 - [Login Screen using React Native - Design 3](https://lagandlog.com/logs/login-screen-using-react-native-design-3)
-- [Login Screen using React Native - Design 2](https://lagandlog.com/logs/login-screen-using-react-native-design-2)
 <!-- BLOG-POST-LIST:END -->
