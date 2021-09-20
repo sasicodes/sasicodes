@@ -11,13 +11,19 @@ I am a fullstack software engineer from India
 <br>
 ## Expertise
 
-<img align="left" alt="medium" src="https://img.shields.io/badge/html-%23316192.svg?&style=for-the-badge&logo=html&logoColor=white" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/css-%23316192.svg?&style=for-the-badge&logo=css&logoColor=white" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/javascript-%23316192.svg?&style=for-the-badge&logo=javascript&logoColor=yellow" />
+<img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+<img align="left" align="left" alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
+---
+
+<img style="margin-top:5" align="left" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img align="left" alt="strapi" src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" />
+<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <br>
 <br>
 
@@ -30,3 +36,7 @@ I am a fullstack software engineer from India
 - [How to use Tailwind CSS in React Native](https://lagandlog.com/logs/how-to-use-tailwind-css-in-react-native)
 - [How to generate Simulator build](https://lagandlog.com/logs/how-to-generate-simulator-build)
 <!-- BLOG-POST-LIST:END -->
+
+## Streaks
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sasidharank" /> 
