@@ -41,4 +41,4 @@ I am a fullstack software engineer from India
 
 ## Streaks
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sasidharank" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sasidharank" width="100%" /> 
