@@ -23,7 +23,7 @@ I am a fullstack software engineer from India
 <br>
 <br>
 
-#### BE
+#### -
 
 <img style="margin-top:5" align="left" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img align="left" alt="strapi" src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" />
