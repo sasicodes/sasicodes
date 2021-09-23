@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hey there 👋
 I am a fullstack software engineer from India
 - 💻 Working on multiple frontend and backend projects using Javascript.
 - 🔭 Check out recent [works](https://sudo.lglg.me/works).
