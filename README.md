@@ -4,7 +4,7 @@ I am a fullstack software engineer from India
 - 🔭 Check out my recent [works](https://sudo.lglg.me/works).
 
 
-## Connect with me
+## Connect with me 💬
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/sasiKdharan)
 <br>
