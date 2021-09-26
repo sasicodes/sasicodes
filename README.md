@@ -25,11 +25,11 @@ and more competencies...🚀
 ## Recent logs from [Lag and Log](https://lagandlog.com/?ref=github.com/sasidharank)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to run a Dockerfile?](https://lagandlog.com/logs/how-to-run-a-dockerfile)
 - [How to make a very basic website in Sanic Framework](https://lagandlog.com/logs/how-to-make-a-very-basic-website-in-sanic-framework)
 - [Let users know about releases | Takepull](https://lagandlog.com/logs/let-users-know-about-releases-takepull)
 - [Rebuild Android 11 with TailwindCSS](https://lagandlog.com/logs/rebuild-android-11-with-tailwindcss)
 - [How to use Tailwind CSS in React Native](https://lagandlog.com/logs/how-to-use-tailwind-css-in-react-native)
-- [How to generate Simulator build](https://lagandlog.com/logs/how-to-generate-simulator-build)
 <!-- BLOG-POST-LIST:END -->
 
 ## Streaks
