@@ -1,5 +1,5 @@
 ### Hey there 👋
-I am a fullstack software engineer from India. Creator [Lag and Log](https://lagandlog.com?ref=github.com) and [Takepull](https://takepull.com?ref=github.com).
+I am a fullstack software engineer from India. Creator of [Lag and Log](https://lagandlog.com?ref=github.com) and [Takepull](https://takepull.com?ref=github.com).
 - 💻 Working on multiple frontend and backend projects using Javascript.
 - 🔭 Check out my recent [works](https://sudo.lglg.me/works).
 
