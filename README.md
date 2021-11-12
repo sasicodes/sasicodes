@@ -1,6 +1,10 @@
-### Hey there 👋
-I am a fullstack software engineer from India. Creator of [Lag and Log](https://lagandlog.com?ref=github.com) and [Takepull](https://takepull.com?ref=github.com).
-- 💻 Working on multiple frontend and backend projects using Javascript.
+# Sasidharan 
+#### Frontend Engineer at [Happyfox](https://happyfox.com)
+
+## Interests
+ Web development, serverless, React / Next.js and Web3.
+ 
+- 💻 Creator of [Lag and Log](https://lagandlog.com?ref=github.com) and [Takepull](https://takepull.com?ref=github.com).
 - 🔭 Check out my recent [works](https://sudo.lglg.me/works).
 
 
@@ -11,14 +15,10 @@ I am a fullstack software engineer from India. Creator of [Lag and Log](https://
 <br>
 ## Expertise
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)
 
 and more competencies...🚀
 
