@@ -1,7 +1,7 @@
 # Sasidharan 
 #### Frontend Engineer at [Happyfox](https://happyfox.com)
 
-## Interests
+## Interests ✨
  Web development, serverless, React / Next.js and Web3.
  
 - 💻 Creator of [Lag and Log](https://lagandlog.com?ref=github.com) and [Takepull](https://takepull.com?ref=github.com).
