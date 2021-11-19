@@ -34,4 +34,4 @@ and more competencies...🚀
 
 ## Streaks
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sasidharank" width="100%" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sasicodes" width="100%" /> 
