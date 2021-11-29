@@ -20,8 +20,8 @@
 - [How to make voice calls using Twilio?](https://lagandlog.com/logs/how-to-make-voice-calls-using-twilio)
 - [How to run a Dockerfile?](https://lagandlog.com/logs/how-to-run-a-dockerfile)
 - [How to make a very basic website in Sanic Framework](https://lagandlog.com/logs/how-to-make-a-very-basic-website-in-sanic-framework)
-- [Let users know about releases | Takepull](https://lagandlog.com/logs/let-users-know-about-releases-takepull)
 - [Rebuild Android 11 with TailwindCSS](https://lagandlog.com/logs/rebuild-android-11-with-tailwindcss)
+- [How to use Tailwind CSS in React Native](https://lagandlog.com/logs/how-to-use-tailwind-css-in-react-native)
 <!-- BLOG-POST-LIST:END -->
 
 ## Streaks
