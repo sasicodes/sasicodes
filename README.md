@@ -2,7 +2,7 @@
 #### Frontend Engineer at [Happyfox](https://happyfox.com)
 
 ## Interests ✨
- Web development, serverless, React / Next.js and Web3.
+ Web development, serverless, React / Next.js.
  
 - 🔭 Check out my recent [works](https://sudo.lglg.me/works).
 
