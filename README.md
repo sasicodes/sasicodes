@@ -4,7 +4,6 @@
 ## Interests ✨
  Web development, serverless, React / Next.js and Web3.
  
-- 💻 Creator of [Lag and Log](https://lagandlog.com?ref=github.com) and [Takepull](https://takepull.com?ref=github.com).
 - 🔭 Check out my recent [works](https://sudo.lglg.me/works).
 
 
