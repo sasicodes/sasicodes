@@ -16,11 +16,11 @@
 ## Recent logs from [Lag and Log](https://lagandlog.com/?ref=github.com/sasidharank)
 
 <!-- BLOG-POST-LIST:START -->
+- [Custom React Hook to resolve ENS name and avatar using Ethers.js](https://lagandlog.com/logs/custom-react-hook-to-resolve-ens-name-and-avatar-using-ethersjs)
 - [How to make voice calls using Twilio?](https://lagandlog.com/logs/how-to-make-voice-calls-using-twilio)
 - [How to run a Dockerfile?](https://lagandlog.com/logs/how-to-run-a-dockerfile)
 - [How to make a very basic website in Sanic Framework](https://lagandlog.com/logs/how-to-make-a-very-basic-website-in-sanic-framework)
 - [Rebuild Android 11 with TailwindCSS](https://lagandlog.com/logs/rebuild-android-11-with-tailwindcss)
-- [How to use Tailwind CSS in React Native](https://lagandlog.com/logs/how-to-use-tailwind-css-in-react-native)
 <!-- BLOG-POST-LIST:END -->
 
 ## Streaks
