@@ -1,6 +1,7 @@
 <p align="center">
   <samp>
     <a href="https://sasi.codes">me</a> .
+    <a href="https://sasi.codes/#projects">projects</a> .
     <a href="https://sasi.codes/blog">blog</a> .
     <a href="https://sasi.codes/nfts">nfts</a> .
     <a href="https://sasi.codes/snippets">snippets</a> .
