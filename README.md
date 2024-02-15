@@ -6,4 +6,3 @@
     <a href="https://discord.com/users/719213468926083132">discord</a>
   </samp>
 </div>
-
